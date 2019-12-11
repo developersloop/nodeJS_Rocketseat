@@ -1,0 +1,23 @@
+const mongoose = require('mongoose');
+
+const ProductSchema = new mongoose.Schema({
+      title:{
+          type:String,
+          require:true
+      },
+      description:{
+            type:String,
+            required:true
+      },
+      url:{
+           type:String,
+           required:true
+      },
+      createdAt:{
+            type:Date,
+            defaut: Date.now
+      },
+
+});
+
+mongoose.model('Product',ProductSchema);
