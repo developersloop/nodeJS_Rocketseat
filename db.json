@@ -1,0 +1,33 @@
+{
+  "registrations": [
+    {
+      "email": "vitor.vicente@om30.com.br",
+      "typePessoa": "PF",
+      "nome": "Vitor Vicente",
+      "cpf": "102.911.441-50",
+      "data_nascimento": "28/07/1997",
+      "phone": "(34)99869-5526",
+      "password": "@Dualcore1"
+    },
+    {
+      "id": "5ZvKe",
+      "email": "erika@om30.com.br",
+      "typePessoa": "PF",
+      "nome": "Regia",
+      "cpf": "102.912.4121-50",
+      "data_nascimento": "28/12/1997",
+      "phone": "(34)99869-44343",
+      "password": "@Dualcore11"
+    },
+    {
+      "id": "yFVnI",
+      "email": "erika@om30.com.br",
+      "typePessoa": "PF",
+      "nome": "Regia",
+      "cpf": "102.912.4121-50",
+      "data_nascimento": "28/12/1997",
+      "phone": "(34)99869-44343",
+      "password": "@Dualcore11"
+    }
+  ]
+}

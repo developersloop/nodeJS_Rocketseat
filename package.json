@@ -1,5 +1,5 @@
 {
-  "name": "CourseNode",
+  "name": "ApiByCoders",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@supercharge/strings": "^2.0.0",
+    "axios": "^1.6.4",
     "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
     "express": "^4.17.1",
     "mongoose": "^5.8.0",
     "mongoose-paginate": "^5.0.3",
